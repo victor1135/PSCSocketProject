@@ -20,3 +20,7 @@
 #endif
 
 bool PSCSocketControl_Initialize(char* szProgramName, char* szProgramVersion);
+
+bool PSCSocketControl_Terminate(void);
+
+bool PSCSocketControl_SetDataLogFilePath(void);

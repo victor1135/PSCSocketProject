@@ -101,5 +101,8 @@
     <ClCompile Include="..\Common\MutexControl.cpp">
       <Filter>資源檔\JLog</Filter>
     </ClCompile>
+    <ClCompile Include="PSCSocketControl.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
